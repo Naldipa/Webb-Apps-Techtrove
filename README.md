@@ -33,11 +33,17 @@ Link Software Requirements Specification (SRS) : https://drive.google.com/file/d
 4. Dukungan pelanggan yang responsif untuk membantu menyelesaikan masalah Anda.
 
 **Cara Menggunakan**
+
 **1. Daftar Akun:** Buat akun baru menggunakan email dan nomor telepon.
+
 **2. Login:** Masuk ke akun Anda untuk menikmati semua fitur TechTrove.
+
 **3. Cari Produk:** Gunakan fitur pencarian untuk menemukan produk yang Anda inginkan.
+
 **4. Tambahkan ke Keranjang:** Pilih produk dan tambahkan ke keranjang belanja Anda.
+
 **5. Checkout dan Bayar:** Lakukan pembayaran melalui metode yang tersedia.
+
 **6. Lacak Pengiriman:** Pantau status pesanan Anda hingga produk diterima.
 
 **Kontribusi**
