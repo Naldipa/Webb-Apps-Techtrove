@@ -1,8 +1,10 @@
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/6e2a54f8-e2f3-40cb-9943-125e42c7fbc7" />
 
-**TechTrove**
+# **TechTrove**
 
 TechTrove adalah sebuah platform e-commerce modern yang dirancang untuk memenuhi kebutuhan belanja produk teknologi dengan aman, mudah, dan efisien. Aplikasi ini menyediakan berbagai fitur inovatif untuk meningkatkan pengalaman pengguna dalam berbelanja produk elektronik seperti smartphone, laptop, perangkat rumah pintar, dan masih banyak lagi.
+
+Link Software Requirements Specification (SRS) : https://drive.google.com/file/d/1aN5_bcLH8EozPpheRPusUUU_9qVIYC8m/view?usp=drive_link
 
 **Fitur Utama**
 
