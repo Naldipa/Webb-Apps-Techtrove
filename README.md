@@ -52,4 +52,4 @@ Kami terbuka kontribusi untuk meningkatkan aplikasi ini. Jika Anda memiliki ide 
 
 **Lisensi**
 
-Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah MIT License.
